@@ -1,4 +1,4 @@
 image2map
 =========
 
-A program for generating "maps" from a image files
+A program for generating "maps" from image files
